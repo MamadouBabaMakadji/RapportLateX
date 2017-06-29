@@ -1,0 +1,37 @@
+\contentsline {section}{\numberline {0.1}\textbf { Amundi Asset Management}}{4}
+\contentsline {subsection}{\numberline {0.1.1}Pr\IeC {\'e}sentation g\IeC {\'e}n\IeC {\'e}rale de l'entreprise}{4}
+\contentsline {subsection}{\numberline {0.1.2}Principes g\IeC {\'e}n\IeC {\'e}raux}{4}
+\contentsline {subsubsection}{Deux p\IeC {\^o}les clients}{4}
+\contentsline {subsubsection}{9 p\IeC {\^o}les m\IeC {\'e}tiers}{4}
+\contentsline {subsubsection}{Les plateformes de gestion}{5}
+\contentsline {subsubsection}{Le p\IeC {\^o}le Pilotage et Contr\IeC {\^o}le (PCO)}{6}
+\contentsline {subsubsection}{Le p\IeC {\^o}le Support et D\IeC {\'e}veloppement (SDE)}{7}
+\contentsline {section}{\numberline {0.2}\textbf { Conformit\IeC {\'e}}}{8}
+\contentsline {subsection}{\numberline {0.2.1}Organisation}{8}
+\contentsline {subsection}{\numberline {0.2.2}Missions}{8}
+\contentsline {subsubsection}{Int\IeC {\'e}grit\IeC {\'e} des march\IeC {\'e}s}{8}
+\contentsline {subsubsection}{S\IeC {\'e}curit\IeC {\'e} Financi\IeC {\`e}re et les Sanctions Internationales}{9}
+\contentsline {subsubsection}{Produits / clients / Documentation Commerciale}{10}
+\contentsline {subsubsection}{Secr\IeC {\'e}tariat G\IeC {\'e}n\IeC {\'e}ral}{10}
+\contentsline {subsubsection}{Support et Coordination aux Filiales}{11}
+\contentsline {subsubsection}{Projets Transversaux}{11}
+\contentsline {subsubsection}{Amundi Finance}{12}
+\contentsline {subsubsection}{Amundi Interm\IeC {\'e}diation}{12}
+\contentsline {subsubsection}{Plan de Remediation OFAC}{13}
+\contentsline {section}{\numberline {0.3}\textbf {Conformit\IeC {\'e} et Equipe IT}}{14}
+\contentsline {subsection}{\numberline {0.3.1}Equipe IT : mon \IeC {\'e}quipe}{14}
+\contentsline {section}{\numberline {0.4}\textbf {ACTIMIZE}}{15}
+\contentsline {subsection}{\numberline {0.4.1}Actimize AML}{15}
+\contentsline {subsection}{\numberline {0.4.2}Actimize MAD}{16}
+\contentsline {section}{\numberline {0.5}\textbf {Migration Ant vers Maven}}{18}
+\contentsline {subsection}{\numberline {0.5.1}Organisation du projet}{18}
+\contentsline {subsection}{\numberline {0.5.2}Mes missions}{21}
+\contentsline {subsubsection}{Le Refactoring de code}{21}
+\contentsline {subsubsection}{La Gestion des exceptions}{22}
+\contentsline {subsubsection}{D\IeC {\'e}veloppement de fonctionnalit\IeC {\'e}s}{22}
+\contentsline {subsubsection}{Am\IeC {\'e}lioration de la qualit\IeC {\'e} du code}{23}
+\contentsline {subsubsection}{Ecriture des tests unitaires}{23}
+\contentsline {section}{\numberline {0.6}\textbf {Mon avis sur ce stage}}{25}
+\contentsline {subsection}{\numberline {0.6.1}Les apports}{25}
+\contentsline {subsection}{\numberline {0.6.2}Les difficult\IeC {\'e}s rencontr\IeC {\'e}es}{25}
+\contentsline {section}{\numberline {0.7}\textbf {Conclusion}}{26}
